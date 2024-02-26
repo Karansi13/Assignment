@@ -1,0 +1,21 @@
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter";
+}
+.box{
+  position: relative;
+  top: 12rem;
+  right: 31rem;
+}
+
+.view{
+  position: relative;
+  top: 13rem
+}
+.rounded-custom {
+  border-radius: 12px;
+}
